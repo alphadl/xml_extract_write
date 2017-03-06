@@ -1,0 +1,1 @@
+将xml文档里的termLabel抽取出来进行机器翻译,将翻译完的result上传回xml文档的translation标签
